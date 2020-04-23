@@ -1,7 +1,7 @@
 ---
-path: profile
+path: blog/sample-post
 date: 2020-04-23T02:43:40.379Z
-title: My Profile
+title: sample post
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
