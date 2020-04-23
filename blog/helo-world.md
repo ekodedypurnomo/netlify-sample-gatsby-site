@@ -1,5 +1,5 @@
 ---
-path: blog/helo
+path: blog/helo-world
 date: 2020-04-23T02:21:18.575Z
 title: Helo world
 ---
