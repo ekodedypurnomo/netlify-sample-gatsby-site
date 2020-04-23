@@ -1,3 +1,6 @@
+this site is based on [this tutorial](https://dzone.com/articles/create-a-secure-blog-with-gatsby-react-and-netlify)
+---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3e654434-5e65-45ac-a045-0526539c0c14/deploy-status)](https://app.netlify.com/sites/ekodedypurnomo-sample-gatsby-site/deploys)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
